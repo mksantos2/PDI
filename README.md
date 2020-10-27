@@ -1,3 +1,3 @@
 # PDI
 
-Assigments from graduation class "Digital Image Processing".
+Assigments from college class "Digital Image Processing".
